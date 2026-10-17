@@ -1,6 +1,7 @@
 # ByteWheel
 
 *Driving the internet, one nybble at a time.*
+[](https://buymeacoffee)[$$$](https://buymeacoffee.com/burningserenity)  
 
 ---
 
